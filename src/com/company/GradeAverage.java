@@ -74,3 +74,15 @@ public class GradeAverage {
 	}
 
 }
+/*
+Output:
+Mean: 50.6
+Improved?: false
+Final: 50.6
+Mean: 58.25
+Improved?: true
+Final: 61.0
+Mean: 65.0
+Improved?: true
+Final: 65.0
+ */
